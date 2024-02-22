@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Junebugg1214
-- 👀 I’m interested in NEST simulation 
-- 🌱 I’m currently learning NEST 
-- 💞️ I’m looking to collaborate on project that would study the effect of Nicotine on the brain using NEST simulation 
+- 👋 Hi, I’m @Junebugg1214, a board certified physician 
+- 👀 I’m interested in Machine Learning  
+- 🌱 I’m currently learning ML & Deep Neural Network 
+- 💞️ I’m looking to collaborate on projects that leverages ML, Neural Network & Medicine 
 - 📫 How to reach me marcsaintjour@gmail.com
 
 <!---
